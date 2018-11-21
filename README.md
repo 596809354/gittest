@@ -1,2 +1,2 @@
 #gittest
-添加一个readne文件
+添加一个readme文件
